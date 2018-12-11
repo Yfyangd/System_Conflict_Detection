@@ -1,6 +1,6 @@
 # System_Conflict_Detection
 
-## ethodology
+## Methodology
 <img style="float: left;" src="image\Methodology.png" width="60%">
 
 
